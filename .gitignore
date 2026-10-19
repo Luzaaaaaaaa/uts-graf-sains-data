@@ -1,0 +1,7 @@
+﻿myenv/
+.ipynb_checkpoints/
+ecommerce-dataset.zip
+data/*
+!data/events_p1.csv
+!data/events_p2.csv
+!data/top5_similarity.csv
